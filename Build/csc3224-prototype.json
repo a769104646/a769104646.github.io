@@ -1,0 +1,15 @@
+{
+"companyName": "XINXINGCHENG",
+"productName": "csc3224-game",
+"dataUrl": "csc3224-prototype.data.unityweb",
+"wasmCodeUrl": "csc3224-prototype.wasm.code.unityweb",
+"wasmFrameworkUrl": "csc3224-prototype.wasm.framework.unityweb",
+"asmCodeUrl": "csc3224-prototype.asm.code.unityweb",
+"asmMemoryUrl": "csc3224-prototype.asm.memory.unityweb",
+"asmFrameworkUrl": "csc3224-prototype.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
